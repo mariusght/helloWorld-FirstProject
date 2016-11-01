@@ -2,3 +2,4 @@
 
 
 - trying to understand it :)
+- step 1
